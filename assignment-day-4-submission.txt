@@ -1,0 +1,175 @@
+1. Timely delivery is crucial in software project management because 
+a. It heps ensure that project milestones nd deadlines are met
+b. It leads to optimal resource utilizationa and optimization and prevents bottlenecks, while helping teams work cohesively towards project goals.
+c. It allows for identification and mitigation of potential risks that may delay the project.
+
+Project Managers can ensure deadlines are met by identifying critical tasks and their potential impacts on project duration, this can help them allocate buffer time and resources effectively. 
+
+
+2 a. Effective Cost control contributes to the success of a software project by:
+i. Managing Budgets
+ii. Preventing cost overruns
+
+b. Strategies used to prevent budget overruns include
+i. Thorough Project Planning.
+ii. Know your vendors
+iii. Keep to planned scope
+iv. Keep stakeholders updated as proper communication may prevent delay
+v. Monitor progress
+vi. Reassign resources
+
+3. AGILE VS. WATERFALL METHODLOGIES
+a. Agile uses iterative and incremental approach while Waterfall uses a linear and sequential approach
+b. Agile emphasizes flexibility, collaboration and customer feedback while in Waterfall, each phases must be completed before the next begins.
+
+Advantages of Agile
+i. Quick response to changes
+ii. Regular customer feedback
+iii. improved collaboration
+
+Disadvantages of Agile
+i. Less predictability
+ii. Requires significant customer participation
+
+Advantages of Waterfall
+i. Clear structure/documentation
+ii. Easy to manage due to its rigidity
+
+Disadvantages of WAterfall
+i. Difficult to accommodate changes
+ii. Testing occurs late in the process.
+
+4. Agile is better suited for projects 
+- where stakeholders are closely involved every step of the way. 
+- Require flexibility and adaptability
+- Have uncertain and changing requirements
+- Need rapid prototyping and testing
+- Involve high levels of complexity and uncertainty
+
+Examples:
+- Research and development projects
+- Software Developments
+- Product Developments
+
+Waterfall is more suited for projects that
+- Have a defined end goal
+- Have well-defined requirements
+- Need strict regulatory compliance
+- Involve linear, phase-by-phase execution
+
+Examples:
+- contruction projects (buildings, bridges)
+- Government projects with strict regulations
+- Manufacturing production lines
+
+5a. METHODS OF ENSURING QUALITY ASSURANCE
+i. Proper/Strategic Planning
+ii. Tool selection
+iii. Execution
+iv. Monitoring Progress
+v. Continuous Improvement
+vi. Software Test Automation
+
+Maintining high standards is important because it:
+i. Ensures reliable and stable software
+ii. Reduces bugs and errors
+iii. Enhances credibility
+iv. Improves user experience/satisfaction
+v. Encourages team collaboration
+
+6.a.Project scope in software development 
+- Ensures a smooth workflow 
+- Gives better control over the project. 
+- Gives the project manager and the client a better understanding of the deadlines and deliverables
+- Makes it easy to evaluate every step, and to see if it meets stakeholders' expectations.
+
+
+b. A work breakdown structure (WBS) is a project management system that breaks projects into smaller, more manageable components or tasks. It is a visual tool that breaks down the entire project to make it easier to plan, organize, and track progress. It is useful because it
+- Enhances team understanding and communication
+- Facilitates task assignment and tracking
+- Visualizes the project's scope and activities
+- Helps estimate time, costs and resources.
+
+7a. Benefits of a detailed Project Schedule:
+- Project Schedule allows work to be prioritized.
+- Allows project tracking and progress monitoring
+- It enhances resource management
+- Risk management
+- Project schedule also improves stakeholder satisfaction
+
+7b. A Gantt chart is a visual project management tool that helps to plan and schedule projects. It looks like a horizontal bar chart showing project management timelines, task starting and ending dates, dependencies between different tasks and general project task flow.
+
+Gantt charts are very instrumental because they help in:
+- Managing milestones and deadlines
+- Breaking projects into smaller tasks
+- Visualizing task dependencies
+- Monitoring project progress
+- Easier time management at every level
+- Strategic view of dependencies
+- Simpler project planning
+- Improved transparency
+
+Clearly defining the problem helps in developing a more effective software solution in several ways:
+i. Focuses efforts on the root cause, rather than symptoms
+ii. Ensures understanding of user needs and pain points
+iii. Guides requirements gathering and prioritization
+iv. Helps identify key performance indicators (KPIs) for success
+v. Facilitates effective communication among stakeholders
+vi. Enables creation of a tailored solution, rather than a generic one
+vii. Reduces scope creep and feature bloat
+viii. Increases likelihood of meeting user expectation
+
+By clearly defining the problem, you can develop a solution that:
+
+- Addresses the actual needs and pain points
+- Is user-centered and intuitive
+- Meets the desired outcomes and KPIs
+- Is efficient, effective, and scalable
+
+8. a. Core Issues
+i. Lack of platforms that offer solutions to given word problems 
+ii. Limited availability of people who can offer their skills at solving assignments or word problems.
+
+These issues are significant because they impact
+- Provision of quality solutions to word problems or technical assignments
+- Trust in online sources for solution of technical problems or assignments
+- Help clients meet available vendors who lend their skills in solving such issues.
+
+9.i. Focuses efforts on the root cause, rather than symptoms
+ii. Ensures understanding of user needs and pain points
+iii. Guides requirements gathering and prioritization
+iv. Helps identify key performance indicators (KPIs) for success
+v. Facilitates effective communication among stakeholders
+vi. Enables creation of a tailored solution, rather than a generic one
+vii. Reduces scope creep and feature bloat
+viii. Increases likelihood of meeting user expectations
+
+By clearly defining the problem, you can develop a solution that:
+
+- Addresses the actual needs and pain points
+- Is user-centered and intuitive
+- Meets the desired outcomes and KPIs
+- Is efficient, effective, and scalable
+
+10. "Our software solution is a site where high quality solutions to technical problems and assignments can be tackled with industry-standard solutions. It provides an avenue for mentoring and tutorials on how answers and solutions were arrived at.it also enables a feedback platform so that opinions of different entities can be collected.
+
+11.Features that make my software stand out 
+i. Verified Solutions
+ii. Entity Profiling
+iii. Advanced search
+iv. Solutions Review
+v. User Engagement
+vi. Moderation tools
+vii. Integration
+viii. Seurity
+
+12. Due to the wide-range of the Education community, the need for solutions to technical problems and/or academic assignments becomes fast rising and has to be attended to, hence this software.
+
+13. Market trends
+i. Identifying opportunities
+ii. Meeting evolving needs
+iii. Differentiation
+
+
+
+
